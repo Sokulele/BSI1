@@ -13,7 +13,6 @@ body {
 	font-size: 40px;
 	color: gold;
 	text-align: center;
-	text-decoration: underline;
-	text-decoration-color: aquamarine;
-	font-weight: bold;
+    font-weight:bold;
+	text-shadow: rgb(103, 97, 26) 12px 0px 5px;
 }
